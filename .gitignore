@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+.venv/
+venv/
+*.db
+*.stamp
+*.local
+secrets/
